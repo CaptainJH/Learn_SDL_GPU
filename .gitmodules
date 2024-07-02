@@ -1,3 +1,6 @@
 [submodule "SDL"]
 	path = SDL
 	url = https://github.com/thatcosmonaut/SDL.git
+[submodule "SDL_gpu_examples"]
+	path = SDL_gpu_examples
+	url = https://github.com/TheSpydog/SDL_gpu_examples.git
